@@ -3,6 +3,7 @@
 **Authors**: Cynthia Adisa
 
 
+![well](https://github.com/khasoha/Phase3_project/assets/103565165/7477bff0-f8f9-40cd-a0bc-1b1645caef50)
 
 ## Overview
 Tanzania, as a developing country, struggles with providing clean water to its population of over 57,000,000. There are many water points already established in the country, but some are in need of repair while others have failed altogether.
